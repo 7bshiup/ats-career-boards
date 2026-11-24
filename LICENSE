@@ -1,0 +1,11 @@
+The data in this repository (boards.csv, boards.json) is licensed under the
+Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:         https://creativecommons.org/licenses/by/4.0/
+
+Attribution line to use when you share or adapt the data:
+
+  Company career boards by ATS (ats-career-boards), from the makers of the career-site-jobs Apify actor, https://apify.com/improved_gravity_qb7/greenhouse-lever-ashby-personio-jobs-scraper, licensed CC BY 4.0.
+
+build.py is provided under the same terms.
